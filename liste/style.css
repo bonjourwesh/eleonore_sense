@@ -67,7 +67,9 @@ margin-bottom: 2vh;
 }
 
 
-.wrap {
+.italic {
+  font-style: italic;
+  font-size: 0.8em;
 }
 
 
