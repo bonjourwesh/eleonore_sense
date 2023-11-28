@@ -225,9 +225,9 @@ margin-right: 20px;
 
    img{
     display: none;
-      width: 150px;
+      width: 115px;
   position: absolute;
-  height:120px;
+  height:80px;
   transform: translate(-50%,-50%);
   z-index: 10;
    }
